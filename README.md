@@ -25,6 +25,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jinn66490"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jinn66490" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinn231&show_icons=true&locale=en&layout=compact" alt="jinn231" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinn231&" alt="jinn231" /></p>
+<table cellpadding="0" >
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinn231&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="jinn231" /></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jinn231&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+</td>
+  </tr>
+</table>
