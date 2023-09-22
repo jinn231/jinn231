@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wan Na Aung</h1>
 <h3 align="center">A passionate Fullstack developer from Myanmar</h3>
 <img src="https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441-1.jpg" />
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://wannaaung.vercel.app/](https://wannaaung.vercel.app/)
@@ -27,19 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jinn66490"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jinn66490" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinn231&show_icons=true&locale=en&layout=compact" alt="jinn231" /></p>
-### Hi there 👋
 
-<!--
-**jinn231/jinn231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinn231&" alt="jinn231" /></p>
