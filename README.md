@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wan Na Aung</h1>
 <h3 align="center">A passionate Fullstack developer from Myanmar</h3>
+<img width="400px" height="400px" src="https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441-1.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinn231&label=Profile%20views&color=0e75b6&style=flat" alt="jinn231" /> </p>
 
