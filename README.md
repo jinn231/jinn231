@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Fullstack developer from Myanmar</h3>
 <img src="https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441-1.jpg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinn231&label=Profile%20views&color=0e75b6&style=flat" alt="jinn231" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinn231" alt="jinn231" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://wannaaung.vercel.app/](https://wannaaung.vercel.app/)
