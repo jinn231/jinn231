@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wannaaung.vercel.app/](https://wannaaung.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, Typescript , Remix, Next and other javascript framework**
+- 💬 Ask me about **MERN Stack, Typescript , RemixJs, NextJs and other javascript framework**
 
 - 📫 How to reach me **jinn66490@gmail.com**
 
