@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Wan Na Aung</h1>
+<h1 align="center">Hi 👋, My Name is Wan Na Aung</h1>
 <h3 align="center">A passionate Fullstack developer from Myanmar</h3>
 <img src="https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441-1.jpg" />
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web Security**
 
 - 👨‍💻 All of my projects are available at [https://wannaaung.vercel.app/](https://wannaaung.vercel.app/)
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **jinn66490@gmail.com**
 
 - 📄 Know about my experiences [https://wannaaung.vercel.app/](https://wannaaung.vercel.app/)
+
+<i href="https://wannaaung.vercel.app/"></i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
